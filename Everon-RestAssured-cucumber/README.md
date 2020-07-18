@@ -1,4 +1,4 @@
-Swagger Petstore API Tests (Cucumber - Rest Assured) 
+Everon Assignment for Swagger Petstore API Tests (Cucumber - Rest Assured) 
 =====================================
 This is automation suite is designed to test the Swagger Pet store<br>
 
