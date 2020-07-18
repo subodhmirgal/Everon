@@ -1,6 +1,6 @@
 Swagger Petstore API Tests (Cucumber - Rest Assured) 
 =====================================
-This is automation suite is designed to test the Swagger Pet store POST /pet request (Additonal services have also been included but were not essential).
+This is automation suite is designed to test the Swagger Pet store<br>
 
 The project has 6 scenarios that that can be located within the feature files: <br>
  - src/test/resources/PetTests.feature<br>
